@@ -48,8 +48,3 @@ where LastName is not null
 select *
 from EmployeeDemographics
 where LastName in ('Kumar', 'Gupta')
-
-
-
-
-
