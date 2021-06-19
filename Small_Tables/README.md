@@ -2,8 +2,6 @@
 
 ## SQL_Practice
 
-This Repositor has practice  scripts.
-
 ### Following are the steps to set up you workspace</br>
 1)  #### [**Download SQL Server Management Studio (SSMS)**](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)<br>
 SQL Server Management Studio (SSMS) is an integrated environment for managing any SQL infrastructure, from SQL Server to Azure SQL Database.
