@@ -54,11 +54,11 @@ Then select required columns for visualization and Analysis </br>
 - Formated Customer detailes, from two tables Customer and Demographic swith necessary Columns & Extracted the Result in CSV.</br>
 - Formated Product details, from prducts, Category & Subcategory tabels with necessary Columns & Extracted the Result in CSV.</br>
 - Formating Fact Internet Sale Tables, according to the problem statement with necessary Columns & Extracted the Result in CSV.</br>
+- Made a Sales Budgets xlsx file.</br>
 
 Next,</br>
 Importing the extracted files to Visualization Tool, (Tableau Public)</br>
 Making Modle connections, visualizing and building a Dashboards of requrements.</br>
 The [Tableau File]() uploaded in the repository, if you like to visit [Tableau Public Profile]().
-
 
 
