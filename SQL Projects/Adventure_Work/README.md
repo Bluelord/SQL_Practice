@@ -46,13 +46,19 @@ User Stories:
 | 4 |	Sales Manager |	A dashboard overview of internet sales	| Follow sales over time against budget | A Dashboard with graphs and KPIs comparing against budget.
 
 AS we have the data so we don't have to look for it at different sector of the company.</br>
-After Summarizing the request, Using what we have, following are the tables we may be looking at:</br>
+After Summarizing the request, Using what we have, considering Internet Sales Fact table and relared dimension tables</br>
+following are the tables we may be looking at:</br>
 Customer/Clints, Demographics, Product, Category/Subcategory, Calender etc. </br>
 Then select required columns for visualization and Analysis </br>
-- Formated the Calender/Date Table for last 2 years for the dashboard.</br>
-- Formated Customer detailes, from two tables Customer and Demographics.</br>
-- Formated Product details, from prducts, Category & Subcategory tabels.</br>
+- Formated the Calender/Date Table for last 2 years for the dashboard with necessary Columns & Extracted the Result in CSV.</br>
+- Formated Customer detailes, from two tables Customer and Demographic swith necessary Columns & Extracted the Result in CSV.</br>
+- Formated Product details, from prducts, Category & Subcategory tabels with necessary Columns & Extracted the Result in CSV.</br>
+- Formating Fact Internet Sale Tables, according to the problem statement with necessary Columns & Extracted the Result in CSV.</br>
 
-Next, 
+Next,</br>
+Importing the extracted files to Visualization Tool, (Tableau Public)</br>
+Making Modle connections, visualizing and building a Dashboards of requrements.</br>
+The [Tableau File]() uploaded in the repository, if you like to visit [Tableau Public Profile]().
+
 
 
