@@ -4,15 +4,16 @@
 
 [**Download Adventure Works data**](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)</br>
 Download backup files, use the links to download the appropriate sample databases</br>
-**OLTP** data is for most typical online transaction processing workloads.</br>
-**Data Warehouse (DW)** data is for data warehousing workloads.</br>
-**Lightweight (LT)** data is a lightweight and pared down version of the OLTP sample.</br>
+
+    OLTP data is for most typical online transaction processing workloads.
+    Data Warehouse (DW) data is for data warehousing workloads.
+    Lightweight (LT) data is a lightweight and pared down version of the OLTP sample.
 Go with the DW and LT files and doenload it, we will be working on DW file.</br>
-Move the .bak file to your SQL Server backup location.</br>
-Open SQL Server Management Studio (SSMS) and connect to your SQL Server in.</br>
-Right-click Databases in Object Explorer > Restore Database.</br>
-Update SQL Data by Creating new query then Copy and Paste the [Update SQL Data Script](https://github.com/techtalkcorner/SampleDemoFiles/blob/master/Database/AdventureWorks/Update_AdventureWorksDW_Data.sql)</br>
-Execute it,  then the data will be updatated
+-   Move the .bak file to your SQL Server backup location.</br>
+-   Open SQL Server Management Studio (SSMS) and connect to your SQL Server in.</br>
+-   Right-click Databases in Object Explorer > Restore Database.</br>
+-   Update SQL Data by Creating new query then Copy and Paste the [Update SQL Data Script](https://github.com/techtalkcorner/SampleDemoFiles/blob/master/Database/AdventureWorks/Update_AdventureWorksDW_Data.sql)</br>
+-   Execute it,  then the data will be updatated
 
 Now We have the Database set up for the project.
 
