@@ -45,7 +45,7 @@ User Stories:
 | 3 |	Sales Representative  |	To get a overview of Internet Sales per Products  |	Can follow up my Products that sells the most |	A Dashboard which allows me to filter data for each Product
 | 4 |	Sales Manager |	A dashboard overview of internet sales	| Follow sales over time against budget | A Dashboard with graphs and KPIs comparing against budget.
 
-AS we have the data so we don't have to look for it at different sector of the company.
+AS we have the data so we don't have to look for it at different sector of the company.</br>
 After Summarizing the request, Using what we have, following are the tables we may be looking at:</br>
 Customer/Clints, Demographics, Product, Category/Subcategory, Calender etc. </br>
 Then select required columns for visualization and Analysis </br>
