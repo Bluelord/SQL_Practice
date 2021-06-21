@@ -44,3 +44,15 @@ User Stories:
 | 2 |	Sales Representative  | To get a overview of Internet Sales per Customers |	Can follow up my customers that buys the most and who we can sell ore to  | A Dashboard which allows me to filter data for each customer
 | 3 |	Sales Representative  |	To get a overview of Internet Sales per Products  |	Can follow up my Products that sells the most |	A Dashboard which allows me to filter data for each Product
 | 4 |	Sales Manager |	A dashboard overview of internet sales	| Follow sales over time against budget | A Dashboard with graphs and KPIs comparing against budget.
+
+AS we have the data so we don't have to look for it at different sector of the company.
+After Summarizing the request, Using what we have, following are the tables we may be looking at:</br>
+Customer/Clints, Demographics, Product, Category/Subcategory, Calender etc. </br>
+Then select required columns for visualization and Analysis </br>
+- Formated the Calender/Date Table for last 2 years for the dashboard.</br>
+- Formated Customer detailes, from two tables Customer and Demographics.</br>
+- Formated Product details, from prducts, Category & Subcategory tabels.</br>
+
+Next, 
+
+
