@@ -58,8 +58,8 @@ Then select required columns for visualization and Analysis </br>
 
 Next,</br>
 Importing the extracted files to Visualization Tool, (Tableau Public)</br>
-Making Modle connections, visualizing and building a Dashboards of requrements.</br>
-The [Tableau File]() uploaded in the repository, if you like to visit [Tableau Public Profile](https://public.tableau.com/profile/nilesh.gupta1630#!/).
+Joining the Excel files for connections, visualizing and building a Dashboards of requrements.</br>
+The [Tableau File](https://github.com/Bluelord/SQL_Practice/blob/1408b6ea76ead4b6ff0abb92afdce0a2cf28bb4d/SQL%20Projects/Adventure_Work/Adventure%20Work%201.twbx) uploaded in the repository, if you like to visit [Tableau Public Profile](https://public.tableau.com/profile/nilesh.gupta1630#!/).
 
 ### Insights
 
@@ -77,5 +77,3 @@ The [Tableau File]() uploaded in the repository, if you like to visit [Tableau P
     - It shows the Top 10 Sub Category product sales exluding the Bike Category.</br>
     - We also insight of product sales by its Size.</br>
     - Shows the detailed sales number by Product Name & by Subcategory.          
-
-
