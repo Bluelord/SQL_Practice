@@ -17,6 +17,6 @@ Download a free specialized edition, I have downloaded</br>
 Good to go now for practice.
 
 Before using any Scripts, need to create the **Table**</br>
-use the [SQL Create Query.sql](https://github.com/Bluelord/SQL_Practice/blob/435c68977ee04512c73bc13a869ea83ab8bc405c/SQL%20Create%20Query.sql) to create a table in the database,</br>
+use the [Create.sql](https://github.com/Bluelord/SQL_Practice/blob/435c68977ee04512c73bc13a869ea83ab8bc405c/SQL%20Create%20Query.sql) to create a table in the database,</br>
 then we can exicute any query in any perticular order.</br>
 If there is an error due to database name, please change the script according the the name you set for the database.
